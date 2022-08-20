@@ -76,6 +76,8 @@
 		width: 100%;
 		border-top-left-radius: 10px;
 		border-bottom-left-radius: 10px;
+        object-fit: cover;
+        height: 100%;
 	}
 
 	.content {
